@@ -1,6 +1,6 @@
 # Frontiers, Roads, and River Landscapes in the Tsangpo Region
 
-**[Open the interactive map](https://yuanbocai-hub.github.io/Map/)**
+**[Open the interactive map](https://yuanbocai-hub.github.io/riverscape_tsangpo/)**
 
 The map brings together rivers, roads, settlements, and historical sites in the Tsangpo region. Use the layer menu to choose what to display, and click a feature to see its details.
 
